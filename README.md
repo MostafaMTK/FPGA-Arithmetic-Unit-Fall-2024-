@@ -64,7 +64,7 @@ This project is a Verilog-based Arithmetic Logic Unit (ALU) designed and impleme
 
 ## 📷 Demo
 
-Check out the project walkthrough and hardware demo on [LinkedIn](https://www.linkedin.com/posts/mostafamohammed2005_im-thrilled-to-share-our-arithmetic-unit-activity-7280257371535265792-OXmb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEkJgVAB7wgljMDnvHfoQ5tfe6Q-FCFGGak).
+Check out the project and hardware demo on [LinkedIn](https://www.linkedin.com/posts/mostafamohammed2005_im-thrilled-to-share-our-arithmetic-unit-activity-7280257371535265792-OXmb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEkJgVAB7wgljMDnvHfoQ5tfe6Q-FCFGGak).
 
 ---
 
