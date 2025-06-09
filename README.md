@@ -81,7 +81,12 @@ README.md              # This documentation file
 
 This project was developed as part of the CMP101 Logic Design course at Cairo University, Fall 2024.
 
-> **Main Contributor**: [Mostafa Mohammed](https://www.linkedin.com/in/mostafamohammed2005)
+> **Team Members:**
+> - [Mostafa Mohammed](https://www.linkedin.com/in/mostafamohammed2005)
+> - [Mariam Sameh](https://www.linkedin.com/in/mariam-sameh-1b726a335/)
+> - [Mariam Mohamed](https://www.linkedin.com/in/mariam-mohamed-923025335/)
+> - [Moslem Ahmed](https://www.linkedin.com/in/moslem-ahmed-153bb1312/)
+
 
 ---
 
